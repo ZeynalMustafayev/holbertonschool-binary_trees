@@ -2,7 +2,7 @@
 /**
  * binary_tree_sibling - check binary tree have sibling or not
  *
- * @tree: binary tree
+ * @node: binary tree
  *
  * Return: if true return other size, or NULL
  */
