@@ -3,7 +3,7 @@ Project Authors
 Ilaha Heybatova
 Zeynal Mustafayev
 
-Description
+Description <br >
 This project explores fundamental concepts related to binary trees in C programming. The primary focus includes understanding binary trees, distinguishing them from Binary Search Trees (BSTs), analyzing time complexity gains compared to linked lists, and exploring various properties like depth, height, size, traversal methods, and tree balance.
 
 Requirements
