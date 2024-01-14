@@ -129,8 +129,7 @@ These trees ensure logarithmic height, resulting in efficient search, insertion,
 ## Authors/Collaborators
 *       Zeynal Mustafayev-[Github](https://github.com/ZeynalMustafayev/)
 *       Ilaha Heybetova-[Github](https://github.com/ilaahe04/)
-
-                         .----------------------(006)-------.
+                           .----------------------(006)-------.
                       .--(001)-------.                   .--(008)--.
                  .--(-02)       .--(003)-------.       (007)     (009)
        .-------(-06)          (002)       .--(005)
