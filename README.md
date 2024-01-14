@@ -30,29 +30,9 @@ In Postorder Traversal involves visiting the left subtree, then the right subtre
 
 * To know What is a complete, a full, a perfect, a balanced binary tree
 A Complete Binary Tree is considered complete if all levels, except possibly the last, are completely filled, and all nodes are as left as possible. In other words, for a binary tree to be complete, each level must be filled from left to right, and the last level should be filled from left to right with no gaps except possibly on the rightmost side.
-         1
-       /   \
-      2     3
-     / \   /
-    4   5 6
 A Full Binary Tree is considered full (or proper or strict) if each node has either 0 or 2 children. In other words, every node in a full binary tree either has no children (leaf node) or has two children.
-         1
-       /   \
-      2     3
-     / \   / \
-    4   5 6   7
 A Perfect binary tree is considered perfect if all of its levels are completely filled, and all nodes have two children. This means that a perfect binary tree has 2^k - 1 nodes at level k.
-         1
-       /   \
-      2     3
-     / \   / \
-    4   5 6   7
 A Balanced binary tree is considered balanced if the height of the left and right subtrees of any node differ by at most one. In other words, the balance factor (the difference in height between the left and right subtrees) of every node in the tree is at most 1.
-         1
-       /   \
-      2     3
-     / \
-    4   5
 
 
 -**Binary Tree**
@@ -129,11 +109,3 @@ These trees ensure logarithmic height, resulting in efficient search, insertion,
 ## Authors/Collaborators
 *       Zeynal Mustafayev-[Github](https://github.com/ZeynalMustafayev/)
 *       Ilaha Heybetova-[Github](https://github.com/ilaahe04/)
-
-##Tree
-                           .----------------------(006)-------.
-                      .--(001)-------.                   .--(008)--.
-                 .--(-02)       .--(003)-------.       (007)     (009)
-       .-------(-06)          (002)       .--(005)
-  .--(-08)--.                           (004)
-(-09)     (-07)
