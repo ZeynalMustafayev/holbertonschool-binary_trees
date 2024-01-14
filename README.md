@@ -107,5 +107,5 @@ These trees ensure logarithmic height, resulting in efficient search, insertion,
 |[binary_trees.h](https://github.com/ZeynalMustafayev/holbertonschool-binary_trees/blob/master/binary_trees.h)|Including essential libraries and structs for this project.|
 |[binary_tree_print.c](https://github.com/ZeynalMustafayev/holbertonschool-binary_trees/blob/master/binary_tree_print.c)|This function is used only for visualization purposes.|
 ## Authors/Collaborators
-*       Zeynal Mustafayev-[Github](<a> https://github.com/ZeynalMustafayev/ </a>)
-*       Ilaha Heybetova-[Github](<a> https://github.com/ilaahe04/ </a>)
+*       Zeynal Mustafayev-[Github](https://github.com/ZeynalMustafayev/)
+*       Ilaha Heybetova-[Github](https://github.com/ilaahe04/)
