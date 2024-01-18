@@ -6,7 +6,7 @@
  *
  * Return: If no common ancestors return NULL, else return common ancestor.
  */
-binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, 
+binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
 		const binary_tree_t *second)
 {
 	binary_tree_t *par1, *par2;
